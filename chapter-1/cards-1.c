@@ -24,7 +24,7 @@ int main() {
   if (val >= 3 && val <= 6) {
     puts("Count has gone up");
   } else if (val == 10) {
-  puts("Count has gone down");
+    puts("Count has gone down");
   }
 
   return 0;
